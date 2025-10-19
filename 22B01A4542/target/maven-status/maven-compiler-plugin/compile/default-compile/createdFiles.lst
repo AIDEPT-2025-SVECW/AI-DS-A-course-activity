@@ -1,0 +1,8 @@
+com\example\studentservice\service\StudentService.class
+com\example\studentservice\repository\StudentRepository.class
+com\example\studentservice\StudentServiceApplication.class
+com\example\studentservice\controller\StudentController.class
+com\example\studentservice\entity\StudentEntity.class
+com\example\studentservice\exception\GlobalExceptionHandler.class
+com\example\studentservice\exception\ResourceNotFoundException.class
+com\example\studentservice\service\impl\StudentServiceImpl.class
